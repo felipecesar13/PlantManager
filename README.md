@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="PlantManager" src=".github/capa.png" width="70%">
+  <img alt="PlantManager" src=".github/capa.png" width="100%">
 </p>
 
 # 🍀 PlantManager

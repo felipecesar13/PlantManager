@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="PlantManager" src=".github/capa.png" width="100%">
+  <img alt="PlantManager" src=".github/capa.png" width="80%">
 </p>
 
 # 🍀 PlantManager
@@ -19,7 +19,14 @@ O que é o PlantManager? PlantManager é mais uma ideia de aplicativo criada pel
 
 A proposta do app é ajudar você a cuidar melhor de suas plantas, lhe lembrando e notificando de regá-la e informando sobre algumas características especiais de cada uma.😄🍃🌱
 
-# ✨ Tecnologias
+# ⚛ Tecnologias
+
+Durante o desenvolvimento do projeto as principais tecnologias usadas foram:
+
+
+- [Expo](https://expo.io/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 # 🚀 Como testar
 

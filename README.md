@@ -22,7 +22,6 @@ A proposta do app é ajudar você a cuidar melhor de suas plantas, lhe lembrando
 
 Durante o desenvolvimento do projeto as principais tecnologias usadas foram:
 
-
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)

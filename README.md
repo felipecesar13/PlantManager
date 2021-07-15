@@ -1,9 +1,27 @@
-# PlantManager 🍀
+<h1 align="center">
+  <img alt="PlantManager" width="225" title="PlantManager" src=".github/logo.png" />
+</h1>
+
+<p align="center">
+  <a href="#-plantmanager">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-testar">Como Testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="PlantManager" src=".github/capa.png" width="70%">
+</p>
+
+# 🍀 PlantManager
+
 O que é o PlantManager? PlantManager é mais uma ideia de aplicativo criada pela equipe da @rockeatseat, através desse app conseguimos treinar diversos conceitos de IU e UX, além de podermos melhorar nossas habilidades em desenvolvimento de apps mobile.
 
 A proposta do app é ajudar você a cuidar melhor de suas plantas, lhe lembrando e notificando de regá-la e informando sobre algumas características especiais de cada uma.😄🍃🌱
 
-# Como testar
+# ✨ Tecnologias
+
+# 🚀 Como testar
 
 ## Configurando ambiente 
 
@@ -87,3 +105,7 @@ $ expo start
 Esse comando inicia toda nossa aplicação, após executá-lo aparecerá para você um QR Code o mesmo deve ser lido pelo aplicativo Expo Go instalado anteriormente em seu smartphone, então se tudo tiver corrido bem o aplicativo será iniciado e você finalmente poderá vê-lo em execução em seu dispositivo.
 
 Um outro detalhe que pode ser alterado é a foto de perfil, para alterá-la basta escolher uma foto de seu desejo no formato ```.png```, depois renomeie ela para ```profile.png```. Após realizar esse processo navegue até o diretório ```/src/assets/```, dentro desta pasta você irá substituir o ```profile.png``` pela sua foto.
+
+# 📄 Licença
+
+Esse projeto está sob a licença MIT.

@@ -14,7 +14,7 @@
 
 # 🍀 PlantManager
 
-O que é o PlantManager? PlantManager é mais uma ideia de aplicativo criada pela equipe da @rockeatseat, através desse app conseguimos treinar diversos conceitos de IU e UX, além de podermos melhorar nossas habilidades em desenvolvimento de apps mobile.
+O que é o PlantManager? PlantManager é mais uma ideia de aplicativo criada pela equipe da @rockeatseat, através desse app conseguimos treinar diversos conceitos de UI e UX, além de podermos melhorar nossas habilidades em desenvolvimento de apps mobile.
 
 A proposta do app é ajudar você a cuidar melhor de suas plantas, lhe lembrando e notificando de regá-la e informando sobre algumas características especiais de cada uma.😄🍃🌱
 
